@@ -37,6 +37,7 @@ Those are things which might or might not be implemented in the near/not so near
 
  * A "Google Code"-Provider
  * Some standard Providers for reading XML or CSV-files.
+ * Provider for "CodePlex" and "Bitbucket"
  
 ## Changelog ##
 
